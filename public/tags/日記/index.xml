@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日記 on Memopool</title>
+    <link>http://example.org/tags/%E6%97%A5%E8%A8%98/</link>
+    <description>Recent content in 日記 on Memopool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Shu Yoshioka</copyright>
+    <lastBuildDate>Sun, 21 Aug 2022 08:59:15 +0900</lastBuildDate><atom:link href="http://example.org/tags/%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめてのブログ</title>
+      <link>http://example.org/posts/post-1/</link>
+      <pubDate>Sun, 21 Aug 2022 08:59:15 +0900</pubDate>
+      
+      <guid>http://example.org/posts/post-1/</guid>
+      <description>タイトルにはじめてと書いてあるがはじめてではない。何回も書こうとして失敗している。今までははてな、Amebaとかを使おうとしてたけど今回はgithub pagesにホストしてみることにした。続くかどうかは知らん。</description>
+    </item>
+    
+  </channel>
+</rss>
